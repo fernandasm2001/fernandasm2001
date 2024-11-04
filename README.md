@@ -1,0 +1,7 @@
+- 👋 Olá, eu me chamo Fernanda
+- 👀 Eu gosto de ler, jogar e assistir
+- 🌱 Estou aprendendo desenvolvimento web
+- 💞️ Estou a procura de um estágio na area de tecnologia
+- 📫 E-mal: fernandamorais0311@gmail.com
+- 😄 Pronomes: ela/dela
+- ⚡ Fato divertido: já devo ter lido centenas de mangás
